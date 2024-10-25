@@ -41,7 +41,7 @@ I am a **Senior Software Engineer** with extensive experience in full-stack deve
 ---
 
 ### 📈 GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=danyyal&show_icons=true&count_private=true&hide_border=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danyyal&show_icons=true&count_private=true&hide_border=true&theme=radicaltoken=SHA256:UyF3v6bIsMPJ5t3o+E4jRDIIK9udSN4CFlA4f+/FDZY)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=danyyal&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
